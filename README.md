@@ -18,12 +18,12 @@ By following the CKB tutorial, I successfully completed the following steps:
 
 Below are the screenshots documenting my workflow and successful execution:
 
-*   **Starting the Local Node:** `![Run Node](./images/run node.png)`
-*   **Starting the App:** `![Start App](./images/start app.png)`
-*   **Running the Browser URL:** `![Browser URL](./images/run the url in browser.png)`
-*   **Adding the Image to the dApp:** `![Add Image](./images/add image.png)`
-*   **Returning the Transaction Hash:** `![Tx Hash](./images/return tx hash.png)`
-*   **Check Spore Content Error:** `![Check Spore Content Error](./images/Check Spore Content error.png)`
-*   **Rendering the On-Chain Image:** `![Rendered Image](./images/return image.png)`
-*   **A Clearer View of the Image:** `![Clearer Image](./images/clearer image.png)`
-*   **A Much Clearer View of the Image:** `![Much Clearer Image](./images/much clearer.png)`
+- Starting the Local Node: ![Run Node](./images/run-node.png)
+- Starting the App: ![Start App](./images/start-app.png)
+- Running the Browser URL: ![Browser URL](./images/run-the-url-in-browser.png)
+- Adding the Image to the dApp: ![Add Image](./images/add-image.png)
+- Returning the Transaction Hash: ![Tx Hash](./images/return-tx-hash.png)
+- Check Spore Content Error: ![Check Spore Content Error](./images/check-spore-content-error.png)
+- Rendering the On-Chain Image: ![Rendered Image](./images/return-image.png)
+- A Clearer View of the Image: ![Clearer Image](./images/clearer-image.png)
+- A Much Clearer View of the Image: ![Much Clearer Image](./images/much-clearer.png)
